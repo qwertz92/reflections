@@ -1,7 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
+	
+	To create a repository. That I can commit files.
+
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	It is a stage between the WD Rep. You don't have to add all files to 
+	your repository when you are only working with some of them.
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
